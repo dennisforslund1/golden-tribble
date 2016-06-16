@@ -2,5 +2,3 @@
 
 Test
 test
-Hej 
-hej
